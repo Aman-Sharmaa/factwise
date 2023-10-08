@@ -54,19 +54,19 @@ To use this project, follow these steps:
 1. Folder Structure
    ```bash
    CSS Code
-   manufac/src/assets/css/App.css
+   factwise/src/assets/css/App.css
 
    Calculation Functions
-   manufac/src/utils/crud.js
+   factwise/src/utils/crud.js
 
    JSON File
-    manufac/src/json/celebrities.json
+    factwise/src/json/celebrities.json
 
    Single Screen
-   manufac/src/screens/singleScreens.js
+   factwise/src/screens/singleScreens.js
 
    Main Screen
-   manufac/src/app.js
+   factwise/src/app.js
 
 
 
